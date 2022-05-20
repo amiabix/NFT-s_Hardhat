@@ -8,8 +8,8 @@ networks: {
   hardhat: {
   },
   rinkeby: {
-    url: "https://eth-rinkeby.alchemyapi.io/v2/1pXO5NlJ6ItEl0mgkQoByKWQqO3N-U5G",
-    accounts: ["6fbc4c2c7483535bc6e5ca96e2d6526194a2c910f8f5443ed51421ac548b5e11"]
+    url: "Alchemy URL",
+    accounts: ["Privatekey"]
   }
 },
 solidity: {
